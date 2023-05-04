@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+.display{
+    padding: auto;
+    border-radius: 1em;
+    height: 450px;
+    width: 360px;
+    background-color: rgb(63, 66, 63);
+    box-shadow:  2px -2px 4px rgba(0, 0, 0);
+}
+.display .display-box {
+    font-family: 'Orbitron', sans-serif;
+    background-color: #dcdbe1;
+    border: solid transparent 0.5px;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+    width: 72%;
+    height: 10%;
+    margin-left: 20px;
+    border-radius: 5px;
+    letter-spacing: 2px;
+
+ }
+ .display button {
+    font-family: 'Orbitron', sans-serif;
+    background-color: rgb(255, 255, 255);
+    width: 15%;
+    height: 10%;
+    font-weight: 900;
+    color: rgb(0, 0, 0);
+    border-radius: 8px;
+    box-shadow:  2px -3px 2px rgb(0, 0, 0);
+    transition: background-color 0.5s ease-out;
+ }
+.display .btn-clr{
+    font-family: 'Orbitron', sans-serif;
+    background-color: #37a567;
+    width: 15%;
+    height: 10%;
+    font-weight: 900;
+    color: rgb(255, 255, 255); 
+    border-radius: 10px;
+    box-shadow:  2px -3px 2px rgb(0, 0, 0);
+    transition: background-color 0.3s ease-out;
+ }
+
+.display .btn-ac{
+    font-family: 'Orbitron', sans-serif;
+    background-color: #990f46;
+    width: 15%;
+    height: 10%;
+    font-weight: 900;
+    color: rgb(255, 255, 255); 
+    border-radius: 10px;
+    box-shadow:  2px -3px 2px rgb(0, 0, 0);
+    transition: background-color 0.3s ease-out;
+ }
+
+ p.txt {
+    font-family: 'Orbitron', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-weight: 900;
+    text-shadow: 3px -3px 3px rgb(255, 0, 128);
+}
+.display p{
+    color: white;
+    padding-top: 15px;
+    padding-left: 15px;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 900;
+}
